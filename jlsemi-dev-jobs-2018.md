@@ -1,6 +1,7 @@
 # Job Opportunities of Jinglue Semi., 2018
 
 Company Website: [https://www.jlsemi.com](https://www.jlsemi.com)
+
 Location: Zhangjiang Hi-Tech Park, Shanghai, China
 
 ## About Jinglue Semi.
@@ -89,7 +90,7 @@ Jinglue Semi. is a privately-funded fabless company founded in 2008. Members of 
 - Work with analog designer to perform high performance analog circuit layout, including high performance PLL, ADC/DAC, Amplifier, BandGap, regulators, high speed I/O etc.
 - Work with analog designer in module layout floor planning, integration.
 - Work with project lead to do full chip floor planning, full chip integration, DRC/LVS/ERC verification, and tape out.
-- 
+
 ### Qualifications
 
 - BS with 1 years of experience or more. BS in electrical engineering is preferred. 
