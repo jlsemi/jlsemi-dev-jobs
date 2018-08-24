@@ -5,7 +5,7 @@ Location: Zhangjiang Hi-Tech Park, Shanghai, China
 
 ## About Jinglue Semi.
 
-Jinglue Semi. was a privately-funded fabless company founded in 2008. Members of the Jinglue management team respectively has over 20 years of semiconductor-relevant expertise. 
+Jinglue Semi. is a privately-funded fabless company founded in 2008. Members of the Jinglue management team respectively has over 20 years of semiconductor-relevant expertise. The company focus on developing high performance communication ICs and system in IoT and automotive applications. 
 
 ## Digital IC Design/Verification Engineer
 
@@ -32,13 +32,14 @@ Jinglue Semi. was a privately-funded fabless company founded in 2008. Members of
 
 ### Description
 
+- As a team member to development software or firmware for High performance communication SoC
 - Design, develop, test, deploy, maintain and improve software or firmware
-- Manage individual project priorities, deadlines and deliverables
 
 ### Qualifications
 
-- Must be proficient in at least one programming language, include but not limited to C/C++/Python/Java/JS/Lua/Go/...
 - BS degree in Computer Science, similar technical field of study or equivalent practical experience.
+- Must be proficient in at least one programming language, include but not limited to C/C++/Python/Java/JS/Lua/Go/...
+- Manage individual project priorities, deadlines and deliverables
 - Positive, active, self-motivated and teamwork
 - Interest and ability to learn other coding languages as needed.
 - Experience working with one or more from the following are preferred:
