@@ -1,4 +1,4 @@
-# Job Opportunities of Jinglue Semi., 2019
+# Job Opportunities of JLSemi., 2019
 
 Company Website: [https://www.jlsemi.com](https://www.jlsemi.com)
 
